@@ -19,3 +19,4 @@ Possible additional features:
 - Custom magic particle effect - VFX Graph.
 - Custom magic shader effect - Shader Graph.
 - Rain - VFX Graph and [raindrop Shader Graph](https://www.youtube.com/watch?v=R6EX6dN1BOs&t=179s).
+- Custom lighting shader/[cartoon shader](https://www.youtube.com/watch?v=RC91uxRTId8).
